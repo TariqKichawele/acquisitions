@@ -1,3 +1,11 @@
 {"level":"info","message":"Hello from acquisitions API","service":"acquisitions-api"}
 {"level":"info","message":"Hello from acquisitions API","service":"acquisitions-api"}
 {"level":"info","message":"::1 - - [17/Sep/2025:17:41:30 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2025:17:45:07 +0000] \"GET /api/auth/sign-in HTTP/1.1\" 404 155 \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2025:17:45:43 +0000] \"GET /api/auth/sign-in HTTP/1.1\" 200 7 \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2025:17:47:29 +0000] \"GET /health HTTP/1.1\" 200 2 \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2025:17:47:34 +0000] \"GET /api/auth/sign-in HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2025:17:47:39 +0000] \"GET /api HTTP/1.1\" 200 14 \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"User created successfully: tariq@mail.com","service":"acquisitions-api"}
+{"level":"info","message":"User registered successfully: tariq@mail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [19/Sep/2025:16:34:04 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 99 \"-\" \"PostmanRuntime/7.45.0\"","service":"acquisitions-api"}
